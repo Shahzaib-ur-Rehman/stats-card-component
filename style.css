@@ -104,7 +104,7 @@ body {
 }
 
 /* bisiness section */
-.business-section {
+.stats-section {
   max-width: 80rem;
   border-radius: 0.8rem;
   overflow: hidden;
@@ -112,7 +112,7 @@ body {
 }
 
 @media (min-width: 50rem) {
-  .business-section {
+  .stats-section {
     display: flex;
     gap: 2rem;
     flex-direction: row-reverse;
